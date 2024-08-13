@@ -1,5 +1,6 @@
 # PRODIGY_CS_02
-# Image Encryption and Decryption
+
+## Image Encryption and Decryption
 
 This project provides a simple Python script that allows you to encrypt and decrypt images using the XOR operation on pixel values. The script uses the Python Imaging Library (PIL) to manipulate images.
 
